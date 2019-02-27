@@ -1,0 +1,2 @@
+Carthage/Build/iOS/Realm.framework/Realm filter=lfs diff=lfs merge=lfs -text
+Carthage/Build/iOS/Realm.framework.dSYM/Contents/Resources/DWARF/Realm filter=lfs diff=lfs merge=lfs -text
